@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'InternetBanking-Bot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_492FB12EFE9C4104B3E2712469C00AAE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F1E34E06FAC4021B62B9A1B6B4D4A34 }}
           package: .
